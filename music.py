@@ -36,7 +36,6 @@ twinkle_twinkle = ['c4:4', 'c', 'g', 'g', 'a', 'a', 'g:8',
 list_of_songs = [twinkle_twinkle, music.FUNERAL, music.DADADADUM, music.BIRTHDAY, music.ENTERTAINER, music.ODE,
 music.PRELUDE, music.BLUES, music.PYTHON, music.NYAN]
 
-i = 0
 while True:
     wait_for_shake()
     music.stop()
