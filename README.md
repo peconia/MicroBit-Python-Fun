@@ -7,7 +7,8 @@ Each file is separate and can be used to make the Micro:Bit do something fun.
 
 File              | Description 
 ------------------| ------------------------------------------------------------------------|      
+alarm.py | Set an alarm to beep loudly if the Micro:bit is moved. Requires a buzzer and wires to connect buzzer to microbit.|
 awesome_hearts.py | A beating heart animation, positive messages on button click.           |
 bounce.py         | Creates a ball that bounces on display. X and Y coordinates can be changed on button click, and more balls can be added. |
-buzzer.py         | Sounds or silences a buzzer on button click.Requires an external buzzer.|
+buzzer.py         | Sounds or silences a buzzer on button click. Requires an external buzzer and wires to connect.|
 music.py         | Plays a random song from a list when shaken. Requires an external speaker or headphones plus crocodile clips to connect.|
